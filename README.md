@@ -1,4 +1,4 @@
-[![CI](https://github.com/edgarfroes/r/actions/workflows/main.yml/badge.svg)](https://github.com/edgarfroes/r/actions/workflows/main.yml)
+[![CI](https://github.com/edgarfroes/r/actions/workflows/test.yml/badge.svg)](https://github.com/edgarfroes/r/actions/workflows/test.yml)
 
 # About
 
