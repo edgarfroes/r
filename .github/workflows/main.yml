@@ -25,6 +25,11 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
       
+      - name: Flutter Latest
+        # You may pin to the exact commit or the version.
+        # uses: geowatson/flutter-latest@f71e57a721f066cc8d8d197f77991d5ecbaaec9c
+        uses: geowatson/flutter-latest@1.0.1
+      
       - name: Flutter test & compile
         # You may pin to the exact commit or the version.
         # uses: emiliodallatorre/flutter-action@2a037a6eb36e8a92fd0c4d322de4216ddfe2be5c
