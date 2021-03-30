@@ -1,4 +1,6 @@
-# r
+[![CI](https://github.com/edgarfroes/r/actions/workflows/main.yml/badge.svg)](https://github.com/edgarfroes/r/actions/workflows/main.yml)
+
+# About
 
 A responsiveness helper that will make your life easier.
 
